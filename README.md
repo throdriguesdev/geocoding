@@ -27,7 +27,7 @@ Clone este repositório em sua máquina local.
 
 
 Copy code
-git clone https://github.com/throdriguesdevgeocoding.git
+git clone https://github.com/throdriguesdev/geocoding.git
 Instale as bibliotecas necessárias.
 
 Copy code
